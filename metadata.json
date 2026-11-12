@@ -1,0 +1,7 @@
+{
+  "name": "Pure Black Screen",
+  "description": "Minimalist full black screen utility for OLED displays, eye comfort, ambient audio, and sleep timers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
